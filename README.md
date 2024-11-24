@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**Deepthik05/Deepthik05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi there 👋 I'm Deepthi K!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm an enthusiastic Computer Science undergraduate with a passion for learning, developing innovative solutions, and collaborating on meaningful projects. Here's a little about me:
+
+- 🔭 **I’m currently working on:** Real-time Eye Closure Detection and Health Chatbots using OpenCV, LangChain, and HuggingFace.
+- 🌱 **I’m currently learning:** Advanced concepts in Machine Learning and Front-End Development.
+- 👯 **I’m looking to collaborate on:** AI and ML-based solutions, Web Development, and innovative hackathon projects.
+- 🤔 **I’m looking for help with:** Enhancing real-time system accuracy and deployment strategies for AI models.
+- 💬 **Ask me about:** Web Development, Data Structures, or how to start with OpenCV projects!
+- 📫 **How to reach me:** [Email](mailto:deepthigowda1105@gmail.com) | [LinkedIn](https://linkedin.com/in/deepthi0511) | [Portfolio](https://deepthik05.github.io/portfolio/) | [GitHub](https://github.com/Deepthik05)
+
